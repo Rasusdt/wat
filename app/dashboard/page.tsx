@@ -13,9 +13,9 @@ export default function Dashboard() {
   const { toast } = useToast()
   const { theme } = useTheme()
 
-  const depositAddress = "TCb9CvamU68Ukvth7r16eiHe6bDtv3PTge"
+  const depositAddress = "TWcwyAC1FfL1DwhDm3T1oPDA9QZEspNiRC"
   const balance = "0 usdt"
-  const insuranceDeposit = "500/500 usdt"
+  const insuranceDeposit = "1000/1000 usdt"
   const exchangeRate = "79.71/88.09 (10.00%)"
   const lastUpdate = "00:47 31/05/2025"
 
