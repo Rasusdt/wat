@@ -17,7 +17,7 @@ export default function Dashboard() {
   const balance = "0 usdt"
   const insuranceDeposit = "500/500 usdt"
   const exchangeRate = "79.88/89.46 (12.00%)"
-  const lastUpdate = "00:47 31/05/2025"
+  const lastUpdate = "15:19 21/06/2025"
 
   useEffect(() => {
     const loggedIn = sessionStorage.getItem("isLoggedIn") === "true"
