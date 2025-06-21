@@ -16,7 +16,7 @@ export default function Dashboard() {
   const depositAddress = "TWcwyAC1FfL1DwhDm3T1oPDA9QZEspNiRC"
   const balance = "0 usdt"
   const insuranceDeposit = "500/500 usdt"
-  const exchangeRate = "79.71/88.09 (10.00%)"
+  const exchangeRate = "79.88/89.46 (12.00%)"
   const lastUpdate = "00:47 31/05/2025"
 
   useEffect(() => {
